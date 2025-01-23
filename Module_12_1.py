@@ -10,8 +10,6 @@ class Runner:
     def run(self):
         self.distance += 10
 
-
-# test_runner.py
 import unittest
 from runner import Runner
 
